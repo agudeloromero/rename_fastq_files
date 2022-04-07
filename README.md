@@ -2,7 +2,7 @@
 
 This is a bash script to standarised different types of fasq files:
 
-Run the script in the directiony where the file are placed.
+Run the script in the directiony where the files are placed.
 
 Convert:
 ```
