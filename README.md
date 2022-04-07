@@ -17,4 +17,4 @@ name_2.fq.gz -> name_R2.fastq.gz
 
 name_1.fastq.gz -> name_R1.fastq.gz
 name_2.fastq.gz -> name_R2.fastq.gz
-``
+```
