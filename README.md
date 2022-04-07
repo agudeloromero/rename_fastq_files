@@ -4,7 +4,7 @@ This is a bash script to standarised different types of fasq files.
 
 Get the script and give permission.
 ```
-$ chmod 751 rename.sh
+$ chmod 751 path/rename.sh
 ```
 
 Run the script in the directiony where the files are placed.
