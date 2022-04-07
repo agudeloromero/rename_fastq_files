@@ -2,7 +2,7 @@
 #
 
 # Author: Patricia Agudelo-Romero
-# This script will help to rename fastq files from different forms as name_R1.fastq.gz and name_R2.fastq.gz
+# This script will help to rename diffrent types of fastq files to name_R1.fastq.gz and name_R2.fastq.gz
 
 dir="$PWD"
 echo "${dir}"
