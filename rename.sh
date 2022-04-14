@@ -2,7 +2,9 @@
 #
 
 # Author: Patricia Agudelo-Romero
-# This script will help to rename diffrent types of fastq files to name_R1.fastq.gz and name_R2.fastq.gz
+# email: p.agudeloromero@gmail.com
+
+# This script will help to rename different styles of PE fastq files to dir/name_R1.fastq.gz and dir/name_R2.fastq.gz
 # Run the script in the directory were the files are placed
 
 dir="$PWD"
