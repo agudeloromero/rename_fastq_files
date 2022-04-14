@@ -7,7 +7,7 @@ First, give the correct permission to the script.
 $ chmod 751 path/rename.sh
 ```
 
-# For PE (Rename.PE.sh)
+# For PE (Rename_PE.sh)
 
 Run the script in the directiony where the files are placed.
 ```
@@ -35,7 +35,7 @@ name_1.fastq.gz     -> name_R1.fastq.gz
 name_2.fastq.gz     -> name_R2.fastq.gz
 ```
 
-# For SE (Rename.SE.sh)
+# For SE (Rename_SE.sh)
 
 Run the script in the directiony where the files are placed.
 ```
